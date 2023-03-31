@@ -67,7 +67,7 @@ plt.show()
 
 #2
 Nsignaux = 10 #nombre de signaux a calculer
-tab_s2 = np.zeros((Nsignaux,10000)) #on initialise un tableau pour representer le signal sur 5 positions
+tab_s2 = np.zeros((Nsignaux,10000)) #on initialise un tableau pour representer le signal sur 10 positions
 #chaque position a besoin de 10000 pas de temps
 d = np.linspace(0,V/2,Nsignaux) # vecteur de position car on veut regarder le signal sur une distance de 0.5*V
 
