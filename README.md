@@ -1,4 +1,4 @@
-8# Acoustics-Labs
+# Acoustics-Labs
 Here are some labs that I have coded in python for my Acoustics course LU3ME105 at Sorbonne Université.
 ![multicouche banner](https://github.com/PaulTiberiu/Acoustics-Labs/blob/main/multicouche.png)
 ![ondes banner](https://github.com/PaulTiberiu/Acoustics-Labs/blob/main/ondes.png)
